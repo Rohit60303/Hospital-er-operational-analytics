@@ -1,0 +1,13 @@
+feature,importance
+age,0.0189
+emergency_level,0.0065
+severity_score,0.0267
+vitals_score,0.0186
+doctors_available,0.0446
+nurses_available,0.0144
+current_queue_length,0.7035
+occupancy_rate,0.1131
+triage_duration,0.0136
+registration_delay,0.0114
+doctor_assignment_delay,0.0133
+hour_of_day,0.0156
